@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🙋‍♀️, I'm Plamena Nikolova</h1>
 <h3 align="center">A Software Engineering, Bachelour Student 👩‍💻</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=plamena02" alt="plamena02" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=plamena02&label=Profile%20views&color=0ea1b4&style=plastic" alt="plamena02" /> </p>
 
 - 📖 I’m currently learning **C++ in the university**
 
