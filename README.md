@@ -1,8 +1,6 @@
 <h1 align="center">Hi 🙋‍♀️, I'm Plamena Nikolova</h1>
 <h3 align="center">A Software Engineering, Bachelour Student 👩‍💻</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=plamena02" alt="plamena02" /></a> </p>
-
 - 📖 I’m currently learning **C++**
 
 - 📧 How to reach me **plamenaxaskovo@gmail.com**
@@ -17,5 +15,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=plamena02&show_icons=true&locale=en&layout=compact" alt="plamena02" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=plamena02&show_icons=true&locale=en" alt="plamena02" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=plamena02&" alt="plamena02" /></p>
